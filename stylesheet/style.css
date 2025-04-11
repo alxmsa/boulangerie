@@ -63,7 +63,7 @@ body {
 header {
     height: 650px;
     width: 100%;
-    background-image: url(img/macarons.jpg);
+    background-image: url(macarons.jpg);
     position: relative;
     z-index: 2;
     background-size: cover;
